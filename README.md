@@ -27,5 +27,4 @@
 
 ---
 
-## 🏷️ Tags
-`Azure` `Azure Fundamentals` `Cloud Computing` `Microsoft Azure` `Beginner Cloud`
+
