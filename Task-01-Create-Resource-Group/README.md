@@ -35,5 +35,4 @@ Create an Azure Resource Group to logically organize and manage cloud resources 
 
 ---
 
-of resources
-- Azure Portal navigation
+
