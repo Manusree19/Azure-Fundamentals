@@ -1,83 +1,64 @@
-🚀 Task 05 – Create Azure Function (Serverless)
-🎯 Objective
+# Task 05 – Create Azure Function
 
-Create and test an Azure Function to understand serverless, event-driven computing without managing virtual machines or infrastructure.
+## 🎯 Objective
+Create and deploy an Azure Function using the Azure Portal to understand serverless computing and event-driven architecture without managing servers.
 
-📝 Steps
-1️⃣ Navigate to Azure Portal
+---
 
-Sign in to Azure Portal
+## 📝 Steps 
 
-Click Create a resource
+### 1️⃣ Navigate to Azure Portal
+- Sign in to https://portal.azure.com
+- Click **Create a resource**
+- Search for **Function App**
+- Click **Create**
 
-Search for Function App
+---
 
-Click Create
+### 2️⃣ Basics Tab
+- **Subscription:** Select your active subscription  
+- **Resource Group:** Choose existing RG or create a new one  
+- **Function App name:** `task05-function-app` (must be unique)  
+- **Publish:** Code  
+- **Runtime stack:** Python  
+- **Version:** 3.10  
+- **Region:** Central India (or nearest region)  
+- **Operating System:** Linux  
+- **Plan type:** Consumption (Serverless)
 
-2️⃣ Basics Tab
+---
 
-Subscription: Select your active subscription
+### 3️⃣ Storage
+- **Storage account:** Create new (default settings)
 
-Resource Group: Choose existing RG or create a new one
+---
 
-Function App name: function-task05 (must be unique)
+### 4️⃣ Monitoring
+- **Application Insights:** Enable (recommended for monitoring)
 
-Publish: Code
+---
 
-Runtime stack: Python
+### 5️⃣ Review + Create
+- Validate all configurations
+- Click **Create**
+- Wait for deployment to complete
 
-Version: Latest available
+---
 
-Region: Select a nearby region (e.g., Central India)
+## ⚙️ Create a Function
 
-Operating System: Linux
+1. Go to **Function App → task05-function-app**
+2. Click **Functions → Create**
+3. Choose **HTTP trigger**
+4. Authorization level: **Anonymous**
+5. Click **Create**
 
-Plan type: Consumption (Serverless)
+---
 
-3️⃣ Storage Tab
+## ✅ Verification
+- Open the created function
+- Click **Get Function URL**
+- Paste URL in browser
+- Confirm the function is running successfully
 
-Storage account: Create new
-
-Leave all other settings as default
-
-4️⃣ Monitoring Tab
-
-Application Insights: No (for practice / learning)
-
-5️⃣ Review + Create
-
-Validate the configuration
-
-Click Create
-
-Wait for deployment to complete
-
-6️⃣ Create Azure Function
-
-Open the created Function App
-
-Click Functions → + Create
-
-Select Develop in portal
-
-Choose HTTP trigger
-
-Function name: HttpTriggerDemo
-
-Authorization level: Function
-
-Click Create
-
-✅ Verification
-
-Go to Function App → Functions → HttpTriggerDemo
-
-Click Code + Test
-
-Click Test/Run
-
-Verify Status: 200 OK
-
-Copy the Function URL
-
-Open it in a browser to confirm successful execution
+Azure • AzureFunctions • Serverless • CloudComputing • AzureFundamentals • LearningInPublic
