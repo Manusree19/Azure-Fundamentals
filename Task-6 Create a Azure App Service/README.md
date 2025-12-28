@@ -52,5 +52,3 @@ Create and deploy an **Azure App Service** using the Azure Portal to understand 
 
 
 
-## 🔖 Tags
-Azure • AzureAppService • PaaS • CloudComputing • AzureFundamentals • LearningInPublic
