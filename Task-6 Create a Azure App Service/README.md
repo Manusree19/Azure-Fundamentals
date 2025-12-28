@@ -18,7 +18,7 @@ Create and deploy an **Azure App Service** using the Azure Portal to understand 
 ### 2️⃣ Basics Tab
 - **Subscription**: Select your active subscription  
 - **Resource Group**: Choose an existing RG or create a new one  
-- **App Service name**: `task05-app-service` *(must be globally unique)*  
+- **App Service name**: `az900` *(must be globally unique)*  
 - **Publish**: Code  
 - **Runtime stack**: Python  
 - **Version**: 3.10  
