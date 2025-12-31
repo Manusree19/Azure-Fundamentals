@@ -61,4 +61,3 @@ Create and deploy an Azure Function using the Azure Portal to understand serverl
 - Paste URL in browser
 - Confirm the function is running successfully
 
-Azure • AzureFunctions • Serverless • CloudComputing • AzureFundamentals • LearningInPublic
