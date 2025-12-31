@@ -70,13 +70,3 @@ Deploy an Azure Virtual Machine Scale Set named **vmss1** to automatically manag
   - Load balancer is attached
 
 ---
-
-## 📌 Key Learning
-- Learned how to create a Virtual Machine Scale Set
-- Understood autoscaling and load balancing in Azure
-- Gained hands-on experience with scalable compute services
-
----
-
-## 🏷️ Tags
-#Azure #AzureVMSS #CloudComputing #AutoScaling #AzureFundamentals #LearningByDoing
