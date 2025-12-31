@@ -33,5 +33,3 @@ To associate a **Network Security Group (NSG)** with a **subnet** to secure all 
 ---
 
 
-## 🔖 Tags
-Azure • VirtualNetwork • NSG • AzureSecurity
