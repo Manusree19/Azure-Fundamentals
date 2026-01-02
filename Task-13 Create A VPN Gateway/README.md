@@ -1,4 +1,4 @@
-# 🔐 Task 14 – Azure VPN Gateway (From Scratch)
+# 🔐 Task 13 – Azure VPN Gateway 
 
 ## 🎯 Objective
 To design and deploy a **secure hybrid networking setup** by configuring an **Azure VPN Gateway** that connects an **Azure Virtual Network (VNet)** with an **on-premises network** using an **IPsec Site-to-Site (S2S) VPN**.
