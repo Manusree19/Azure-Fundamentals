@@ -92,7 +92,3 @@ Represents the on-premises network in Azure.
 ---
 
 ---
-
-##
-### 💡 Interview-Ready One-Liner
-Deployed an Azure VPN Gateway with an IPsec Site-to-Site connection to design a secure hybrid cloud architecture, validating deployment through provisioning state and gateway configuration.
