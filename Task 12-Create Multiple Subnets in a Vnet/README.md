@@ -1,4 +1,4 @@
-# ✅ Task 13 – Create Multiple Subnets in an Azure Virtual Network
+# ✅ Task 12 – Create Multiple Subnets in an Azure Virtual Network
 
 ## 🎯 Objective
 To create **multiple subnets** within a single **Azure Virtual Network (VNet)** to logically separate workloads and improve **network security, organization, and scalability**.
