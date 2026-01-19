@@ -1,8 +1,6 @@
 
 ## 🎯 Objective
 To create an Azure File Share, upload files, create folders, and verify cloud-based file storage functionality.
-
---
 ## 📝 Steps
 ### ✅ Step 1 — Create Storage Account
 - Logged into Azure Portal.
