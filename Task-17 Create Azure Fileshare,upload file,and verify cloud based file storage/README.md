@@ -48,11 +48,3 @@ To create an Azure File Share, upload files, create folders, and verify cloud-ba
 - File uploaded inside folder  
 
 ---
-
----
-
-## 🚀 Next Steps
-- Explore Azure Queue Storage  
-- Explore Azure Table Storage  
-- Implement storage security and monitoring  
-
