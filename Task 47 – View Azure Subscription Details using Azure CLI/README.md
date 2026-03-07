@@ -24,6 +24,7 @@ Run the following command to view subscription details:
 
 ```bash
 az account show
+
 ### Step 4 – Review the Output
 
 The command displays information such as:
