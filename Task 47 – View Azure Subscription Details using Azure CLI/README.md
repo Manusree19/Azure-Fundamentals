@@ -34,5 +34,3 @@ The command displays information such as:
 - **Subscription Name**
 - **Tenant ID**
 - **User Details**
-
-This confirms which Azure subscription is currently active.
