@@ -22,7 +22,8 @@ This task verifies the current Azure subscription context using Azure PowerShell
 
 Run the following command to view the current Azure context:
 
-```powershell Get-AzContext
+```powershell
+ Get-AzContext
 
 ###  Step 4 – Review the Output
 
